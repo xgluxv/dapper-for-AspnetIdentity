@@ -1,0 +1,15 @@
+C:\Users\xgluxv\SkyDrive\Code\chainlab\ShortSeaSolution\NewSchedule\NewSchedule\Lu.Dapper.Extensions\bin\Debug\Lu.Dapper.Extensions.dll
+C:\Users\xgluxv\SkyDrive\Code\chainlab\ShortSeaSolution\NewSchedule\NewSchedule\Lu.Dapper.Extensions\bin\Debug\Lu.Dapper.Extensions.pdb
+C:\Users\xgluxv\SkyDrive\Code\chainlab\ShortSeaSolution\NewSchedule\NewSchedule\Lu.Dapper.Extensions\bin\Debug\Dapper.dll
+C:\Users\xgluxv\SkyDrive\Code\chainlab\ShortSeaSolution\NewSchedule\NewSchedule\Lu.Dapper.Extensions\bin\Debug\Dapper.pdb
+C:\Users\xgluxv\SkyDrive\Code\chainlab\ShortSeaSolution\NewSchedule\NewSchedule\Lu.Dapper.Extensions\bin\Debug\Dapper.xml
+C:\Users\xgluxv\SkyDrive\Code\chainlab\ShortSeaSolution\NewSchedule\NewSchedule\Lu.Dapper.Extensions\obj\Debug\Lu.Dapper.Extensions.csprojResolveAssemblyReference.cache
+C:\Users\xgluxv\SkyDrive\Code\chainlab\ShortSeaSolution\NewSchedule\NewSchedule\Lu.Dapper.Extensions\obj\Debug\Lu.Dapper.Extensions.dll
+C:\Users\xgluxv\SkyDrive\Code\chainlab\ShortSeaSolution\NewSchedule\NewSchedule\Lu.Dapper.Extensions\obj\Debug\Lu.Dapper.Extensions.pdb
+C:\Users\xgluxv\SkyDrive\Code\my\2014\DapperAspnetIdentity\Lu.Dapper.Extensions\bin\Debug\Lu.Dapper.Extensions.dll
+C:\Users\xgluxv\SkyDrive\Code\my\2014\DapperAspnetIdentity\Lu.Dapper.Extensions\bin\Debug\Lu.Dapper.Extensions.pdb
+C:\Users\xgluxv\SkyDrive\Code\my\2014\DapperAspnetIdentity\Lu.Dapper.Extensions\bin\Debug\Dapper.dll
+C:\Users\xgluxv\SkyDrive\Code\my\2014\DapperAspnetIdentity\Lu.Dapper.Extensions\bin\Debug\Dapper.pdb
+C:\Users\xgluxv\SkyDrive\Code\my\2014\DapperAspnetIdentity\Lu.Dapper.Extensions\bin\Debug\Dapper.xml
+C:\Users\xgluxv\SkyDrive\Code\my\2014\DapperAspnetIdentity\Lu.Dapper.Extensions\obj\Debug\Lu.Dapper.Extensions.dll
+C:\Users\xgluxv\SkyDrive\Code\my\2014\DapperAspnetIdentity\Lu.Dapper.Extensions\obj\Debug\Lu.Dapper.Extensions.pdb
