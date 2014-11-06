@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Lu.AspnetIdentity.Dapper
 {
-    public class IdentityUserClaim<TKey>
+    public partial class IdentityUserClaim<TKey>
     {
         public IdentityUserClaim()
         {

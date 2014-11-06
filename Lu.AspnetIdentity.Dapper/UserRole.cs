@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Lu.AspnetIdentity.Dapper
 {
-    public class IdentityUserRole<TKey,TRoleKey>
+    public partial class IdentityUserRole<TKey,TRoleKey>
     {
         public IdentityUserRole()
         {

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Lu.AspnetIdentity.Dapper
 {
-    public class IdentityUserLogin<TKey>
+    public partial class IdentityUserLogin<TKey>
     {
         public IdentityUserLogin()
         {
