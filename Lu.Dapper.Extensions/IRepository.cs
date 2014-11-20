@@ -9,7 +9,7 @@ using Dapper;
 using Lu.Dapper.Extensions.Utils;
 namespace Lu.Dapper.Extensions
 {
-    public interface IRepository<T>:IRepository<T,string> where T:class
+    public interface IRepository<T>:IRepository<T,object> where T:class
     {
 
     }
@@ -38,7 +38,7 @@ namespace Lu.Dapper.Extensions
     }
 
 
-    public class DapperRepository<T> : DapperRepository<T, string>, IRepository<T> where T : class
+    public class DapperRepository<T> : DapperRepository<T, object>, IRepository<T> where T : class
     {
         public DapperRepository(IDbConnection connection)
             : this(connection, null)
